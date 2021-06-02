@@ -15,7 +15,7 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        System.out.println( "Hello World !!! Learning Jenkins and GIT" );
+        System.out.println( "Hello World !!! Learning Jenkins and GITA" );
         assertTrue( true );
     }
 }
